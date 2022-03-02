@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912827760547",
+    "project_id": "viveshortapp",
+    "storage_bucket": "viveshortapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912827760547:android:fa5576056e7933cd236416",
+        "android_client_info": {
+          "package_name": "com.codekites.vibeshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912827760547-ce1rvff7desduvk6aegtq9cc2qadqb37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46Jjr8xkdY6Fc6JBxQQwPwJTeNnN7j14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912827760547-ce1rvff7desduvk6aegtq9cc2qadqb37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

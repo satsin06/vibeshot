@@ -1,0 +1,70 @@
+name: vibeshot
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  another_xlider: ^1.0.0
+  cached_network_image: ^3.1.0
+  country_code_picker: ^2.0.2
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  get: ^4.3.8
+  google_fonts: ^2.1.0
+  sliding_up_panel: ^2.0.0+1
+  flutter_swipable: ^1.2.1
+  velocity_x: ^3.3.0
+  carousel_nullsafety: ^0.1.1
+  flutter_tinder_swipe: ^0.0.4
+  flutter_chat_bubble: ^2.0.0
+  image_picker: ^0.8.4+4
+  focused_menu: ^1.0.5
+  sqflite: ^2.0.0+4
+  path_provider: ^2.0.6
+  firebase_storage: ^10.1.0
+  firebase_auth: ^3.3.4
+  firebase_core: ^1.10.0
+  firebase_messaging: ^11.2.4
+  flutter_local_notifications: ^9.2.0
+  cloud_firestore: ^3.1.5
+  modal_progress_hud_nsn: ^0.1.0-nullsafety-1
+  shared_preferences: ^2.0.8
+  rflutter_alert: ^2.0.4
+  rxdart: ^0.27.3
+  country_picker: ^2.0.9
+  # multi_image_picker2: ^5.0.2
+  internet_connection_checker: ^0.0.1+3
+  onesignal_flutter: ^3.2.7
+  
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/auth/
+    - assets/images/
+    - assets/images/profile/
+    - assets/dummy/
+    - assets/images/icons/
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
