@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "912827760547",
-    "project_id": "viveshortapp",
-    "storage_bucket": "viveshortapp.appspot.com"
+    "project_number": "885315168611",
+    "project_id": "vibeshot-2c381",
+    "storage_bucket": "vibeshot-2c381.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:912827760547:android:fa5576056e7933cd236416",
+        "mobilesdk_app_id": "1:885315168611:android:6626ec243c16032ca90b56",
         "android_client_info": {
-          "package_name": "com.codekites.vibeshot"
+          "package_name": "com.example.vibeshot"
         }
       },
       "oauth_client": [
         {
-          "client_id": "912827760547-ce1rvff7desduvk6aegtq9cc2qadqb37.apps.googleusercontent.com",
+          "client_id": "885315168611-o2m5hakce11uvhvaoi1gvs65ekprqo7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibeshot",
+            "certificate_hash": "f658e2b8d4b6db0a1c2777c9203aca66843c4b52"
+          }
+        },
+        {
+          "client_id": "885315168611-qat8jmh1qqekodm2b1k6vji9gqua9b2q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB46Jjr8xkdY6Fc6JBxQQwPwJTeNnN7j14"
+          "current_key": "AIzaSyCt4gCjc20VbTBK7SfLGqBA1DCZ1Xo6yHY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "912827760547-ce1rvff7desduvk6aegtq9cc2qadqb37.apps.googleusercontent.com",
+              "client_id": "885315168611-qat8jmh1qqekodm2b1k6vji9gqua9b2q.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
